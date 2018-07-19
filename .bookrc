@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Volcanoes of the United States",
-  "type": "text"
+  "type": "text",
+  "book_id": 590
 }
